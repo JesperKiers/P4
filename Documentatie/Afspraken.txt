@@ -1,0 +1,13 @@
+woensdag'SS discord
+scrum vergadering op maandag
+scrum blokjes van 4 uur
+5 blokjes per week
+
+melden als iets niet af komt(met een goede reden)
+als je 3x je deadline zonder goeie reden niet haalt dan komt er een serieus gesprek over je invloed in de game
+
+dagelijks trello checken (met verandering github syncen)
+iedereen werkt in eigen folder tot aan implementatie
+na elke scrum alles implementeren
+
+
