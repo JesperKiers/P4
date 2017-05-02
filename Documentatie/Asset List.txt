@@ -37,6 +37,15 @@ C#
 21. bloemen perkjes
 22. onkruid
 
+Riddle items
+1. pocket watch
+2. star
+3. teapot
+4. a lock
+5. Doorbell 
+6. Glove 
+7. Towel
+
 2D
 1. UI (photoshop)
 2. Sprites voor melkzak
