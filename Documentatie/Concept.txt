@@ -1,6 +1,39 @@
 Concept
 
-Er is een stad. De buitenste ring van de stad bestaat uit slums. Vanuit hier moet je items verzamelen om de daadwerkelijke stad in te kunnen.
 
 Je komt aan in de slums. Waar je weet dat je dingen moet verzamelen om de stad in te kunnen. Doormiddel van raadsels moet je die items vinden.
 Zodra je binnen bent mag je een huis uitzoeken. Dit is het uiteindelijke doel van de game.
+
+
+je spawnt net voor de slums waar je direct de objective krijgt om te gaan zoeken naar de raadsels die je nodig hebt om de objecten te vinden. elk raadsel kun je vinden in een bepaald gedeelte van de slums waar de objecten zijn verspreid.
+Malcolm uit safety run 1, wat iedereen gespeelt heeft, geeft je de 7 raadsels om de objecten te kunnen vinden. na elk raadsel heb je keuze uit 4 objecten die je elk moet vinden. in totaal zijn er 7 objecten nodig om ZNP binnen te komen. 
+
+
+1.pocket watch
+	This thing all things devours:
+	Birds, beasts, trees, flowers;
+	Gnaws iron, bites steel;
+	Grinds hard stones to meal;
+	Slays king, ruins town,
+	And beats high mountain down.
+2.star
+	Higher than a house, higher than a tree.
+	Oh! Whatever can that be?
+3.teapot
+	What starts with a T, ends with a T, and has T in it?
+4.A Lock
+	It doesn't bark, it doesn't bite but still won't let you in a house. What is it?
+5.Doorbell
+	It’s something you press even though it sounds like something you should knock and ring
+6.Glove
+	When I am filled, I can point the way; When I am empty, Nothing moves me. I have two skins, One without and one within.
+7.Towel
+	You always make me get wet 
+	But not because you make me cry 
+	It is because my purpose 
+	Is to ensure that you get dry. 
+
+
+
+
+
