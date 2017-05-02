@@ -6,7 +6,7 @@ Zodra je binnen bent mag je een huis uitzoeken. Dit is het uiteindelijke doel va
 
 
 je spawnt net voor de slums waar je direct de objective krijgt om te gaan zoeken naar de raadsels die je nodig hebt om de objecten te vinden. elk raadsel kun je vinden in een bepaald gedeelte van de slums waar de objecten zijn verspreid.
-Malcolm uit safety run 1, wat iedereen gespeelt heeft, geeft je de 7 raadsels om de objecten te kunnen vinden. na elk raadsel heb je keuze uit 4 objecten die je elk moet vinden. in totaal zijn er 7 objecten nodig om ZNP binnen te komen. 
+Malcolm uit safety: Run 1, wat iedereen gespeelt heeft, geeft je de 7 raadsels om de objecten te kunnen vinden. na elk raadsel heb je keuze uit 4 objecten die je elk moet vinden. in totaal zijn er 7 objecten nodig om ZNP binnen te komen. 
 
 
 1.pocket watch
@@ -16,7 +16,7 @@ Malcolm uit safety run 1, wat iedereen gespeelt heeft, geeft je de 7 raadsels om
 	Grinds hard stones to meal;
 	Slays king, ruins town,
 	And beats high mountain down.
-2.star
+2.Star
 	Higher than a house, higher than a tree.
 	Oh! Whatever can that be?
 3.teapot
@@ -27,7 +27,7 @@ Malcolm uit safety run 1, wat iedereen gespeelt heeft, geeft je de 7 raadsels om
 	It’s something you press even though it sounds like something you should knock and ring
 6.Glove
 	When I am filled, I can point the way; When I am empty, Nothing moves me. I have two skins, One without and one within.
-7.Towel
+7.towel
 	You always make me get wet 
 	But not because you make me cry 
 	It is because my purpose 
