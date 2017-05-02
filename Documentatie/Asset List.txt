@@ -31,6 +31,8 @@ C#
 18. straatlampen
 19. buiten/binnen prullenbak
 20. buitentroep
+21. bloemen perkjes
+22. onkruid
 
 Unity
 1. lighting effects
