@@ -34,6 +34,10 @@ C#
 21. bloemen perkjes
 22. onkruid
 
+2D
+1. UI (photoshop)
+2. Sprites voor melkzak
+
 Unity
 1. lighting effects
 2. level
