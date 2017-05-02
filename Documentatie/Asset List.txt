@@ -20,6 +20,9 @@ C#
 7. stoelen
 8. bank
 9. tv
+
+-Gebieden hergebruiken-
+
 10. planten
 11. tafel lamp 
 12. plafond lamp
