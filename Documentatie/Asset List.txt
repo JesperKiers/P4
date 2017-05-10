@@ -20,6 +20,7 @@ C#
 7. stoelen
 8. bank
 9. tv
+10. auto
 
 -Gebieden hergebruiken-
 
