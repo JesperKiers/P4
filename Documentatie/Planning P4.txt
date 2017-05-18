@@ -1,5 +1,40 @@
 =Planning=
 
+1e 2 weken scrum: 
+C#
+1. inventory system		+
+2. inventory manager		+
+3. movement system		+
+4. game manager			+
+5. UI				+
+6. deur script			+
+
+3D
+1. character			
+2. muur				+
+3. deur 			+
+4. raam				+
+5. trap				+
+6. tafels			+
+7. stoelen			+
+8. bank				+
+9. tv				+
+10. Tafel lamp			+
+11. Plafond lamp		+
+12. parkbankje			+
+
+Riddle items
+1. pocket watch			+
+2. star				+
+3. teapot			+
+4. a lock			+
+5. Doorbell 			+
+6. Glove 			+
+7. Towel			+
+
+UI:
+1. Sprite voor taco		+
+
 1 Mei 	- Concept brainstormen
 
 3 Mei - Thomas ziek
