@@ -16,7 +16,7 @@ C#
 4. raam				+
 5. trap				+
 6. tafels			+
-7. stoelen			+
+7. stoelen			
 8. bank				+
 9. tv				+
 10. ikea bouwpakket		
