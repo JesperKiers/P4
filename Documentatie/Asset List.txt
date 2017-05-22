@@ -10,8 +10,7 @@ C#
 9. flash light			+
 
 3D
-1. character			
-2. muur				
+1. character						
 3. deur 			++
 4. raam				++
 5. trap				+
