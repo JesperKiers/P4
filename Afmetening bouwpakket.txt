@@ -1,0 +1,12 @@
+Gat raam = 1m b * 1.5m h
+gat deur = 2m h * 1m b
+muur 1 = 2.5m h * 5m b (outer wall)
+muur 2 = 2.5m h * 2m b (outer wall)
+muur 3 = 2m h crooked * 1m b (divider wall)
+
+vloer1 = 1 * 1 
+vloer2 = 2 * 2
+
+plafond1 = 1 * 1
+plafond2 = 2 * 2
+
