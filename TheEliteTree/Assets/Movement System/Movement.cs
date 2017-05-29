@@ -12,20 +12,24 @@ public class Movement : MonoBehaviour {
     public RaycastHit hit;
     public GameObject cam;
     public float range;
+    public float boost;
+    public float baseSpeed;
+    public float boostCount;
+    
 	// Use this for initialization
 	void Start ()
     {
-		
-	}
+      
+    }
 
     // Update is called once per frame
     void Update()
     {
         Moving();
-        Debug.DrawRay(cam.transform.position, transform.forward * range, Color.blue, 2f);
-        Physics.Raycast(cam.transform.position, transform.forward, out hit, range);
-
-	}
+        Debug.DrawRay(cam.transform.position, cam.transform.forward * range, Color.blue, 2f);
+        Physics.Raycast(cam.transform.position, cam.transform.forward, out hit, range);
+        Boosten();
+    }
     void Moving()
     {
         rot.x = Input.GetAxis("Mouse Y");
@@ -41,5 +45,20 @@ public class Movement : MonoBehaviour {
         transform.Rotate(turn);
         transform.Translate(move * Time.deltaTime * speed);
 
+    }
+    public void Boosten()
+    {
+        if (boostCount > 0)
+        {
+            if (Input.GetButton("Tee"))
+            {
+                speed = boost;
+                boostCount -= Time.deltaTime;
+            }
+        }
+        else
+        {
+            speed = baseSpeed;
+        }
     }
 }
