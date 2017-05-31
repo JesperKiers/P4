@@ -9,6 +9,10 @@ muren 0.5m diep
 vloer1 = 1 * 1 
 vloer2 = 2 * 2
 
+vloer 0.1m hoog
+
 plafond1 = 1 * 1
 plafond2 = 2 * 2
+
+plafond 0.1m dik
 
