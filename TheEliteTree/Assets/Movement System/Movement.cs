@@ -15,14 +15,7 @@ public class Movement : MonoBehaviour {
     public float boost;
     public float baseSpeed;
     public float boostCount;
-    
-	// Use this for initialization
-	void Start ()
-    {
-      
-    }
-
-    // Update is called once per frame
+   
     void Update()
     {
         Moving();
@@ -46,7 +39,7 @@ public class Movement : MonoBehaviour {
         transform.Translate(move * Time.deltaTime * speed);
 
     }
-    public void Boosten()
+    void Boosten()
     {
         if (boostCount > 0)
         {
@@ -55,10 +48,10 @@ public class Movement : MonoBehaviour {
                 speed = boost;
                 boostCount -= Time.deltaTime;
             }
-        }
-        else
-        {
-            speed = baseSpeed;
+            else
+            {
+                speed = baseSpeed;
+            }
         }
     }
 }
