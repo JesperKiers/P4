@@ -4,6 +4,8 @@ muur 1 = 2.5m h * 5m b (outer wall)
 muur 2 = 2.5m h * 2m b (outer wall)
 muur 3 = 2m h crooked * 1m b (divider wall)
 
+muren 0.5m diep
+
 vloer1 = 1 * 1 
 vloer2 = 2 * 2
 
