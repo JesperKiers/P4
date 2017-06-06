@@ -1,19 +1,19 @@
 C#
 1. inventory system		+
 2. inventory manager		+
-3. movement system		+
+3. movement system		++
 4. conversation system		
 5. game manager			
 6. waypoint script
 7. UI				+
 8. deur script			+
-9. flash light			+
+9. flash light			++
 
 3D
 1. character						
 3. deur 			++
 4. raam				++
-5. trap				+
+5. trap				++
 6. tafels			++
 7. stoelen			+
 8. bank				+
@@ -25,7 +25,7 @@ C#
 10. planten			
 11. tafel lamp 			++
 12. plafond lamp		++
-13. flash light			+
+13. flash light			++
 14. keuken`			+
 15. keuken accesoires		+
 16. park bankjes		++
@@ -36,13 +36,13 @@ C#
 21. onkruid
 
 Riddle items			
-1. pocket watch			+	
-2. star				+
-3. teapot			+
-4. a lock			+
-5. Doorbell 			+
-6. Glove 			+
-7. Towel			+
+1. pocket watch			++	
+2. star				++
+3. teapot			++
+4. a lock			++
+5. Doorbell 			++
+6. Glove 			++
+7. Towel			++
 
 2D
 1. UI (photoshop)		+
