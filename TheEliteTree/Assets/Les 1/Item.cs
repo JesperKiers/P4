@@ -8,9 +8,8 @@ public class Item : MonoBehaviour {
     public int rarity;
     public float value;
     public float weight;
-    public Sprite ui;
     
-	// Use this for initialization
+    // Use this for initialization
 	void Start () {
         
 	}

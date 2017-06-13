@@ -14,7 +14,7 @@ public class InventoryManager : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-        FollowMouse();
+        
 	}
     public void FollowMouse()
     {
@@ -22,6 +22,10 @@ public class InventoryManager : MonoBehaviour {
         if (follow == true)
         {
             myItem.transform.position = Input.mousePosition;
+        }
+        else
+        {
+            follow = false;
         }
     }
     public void OnClick()

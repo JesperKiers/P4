@@ -1,4 +1,4 @@
 sceneSetups:
-- path: movement scene.unity
+- path: Assets/conversation scene.unity
   isLoaded: 1
   isActive: 1
