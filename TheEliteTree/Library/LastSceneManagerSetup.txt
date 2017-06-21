@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/conversation scene.unity
+- path: inventorylessen.unity
   isLoaded: 1
   isActive: 1

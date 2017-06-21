@@ -6,6 +6,7 @@ public class InventoryManager : MonoBehaviour {
     public bool follow;
     public GameObject myButton;
     public GameObject myItem;
+    public GameObject slot;
     // Use this for initialization
     void Start () {
 		
@@ -13,19 +14,17 @@ public class InventoryManager : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-
+        if(slot != null)
+        {
+            myItem.transform.position = Input.mousePosition;
+        }
         
 	}
     public void FollowMouse()
     {
-        follow = true;
-        if (follow == true)
+        if (slot = null)
         {
-            myItem.transform.position = Input.mousePosition;
-        }
-        else
-        {
-            follow = false;
+            slot = null;
         }
     }
     public void OnClick()
