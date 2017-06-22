@@ -1,0 +1,432 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   Asher/Assets/Movement System/Rod.mat
+#	modified:   Asher/Assets/conversation scene.unity
+#	modified:   Asher/Assets/ui test scene.unity
+#	modified:   Asher/Library/CurrentLayout.dwlt
+#	modified:   Asher/Library/LastSceneManagerSetup.txt
+#	modified:   Asher/Library/ProjectSettings.asset
+#	modified:   Asher/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+#	modified:   Asher/Library/assetDatabase3
+#	modified:   Asher/Library/metadata/00/00000000000000002000000000000000
+#	modified:   Asher/Library/metadata/00/00000000000000003000000000000000
+#	modified:   Asher/Library/metadata/00/00000000000000004000000000000000
+#	modified:   Asher/Library/metadata/00/00000000000000004100000000000000
+#	modified:   Asher/Library/metadata/00/00000000000000005000000000000000
+#	modified:   Asher/Library/metadata/00/00000000000000005100000000000000
+#	modified:   Asher/Library/metadata/00/00000000000000006000000000000000
+#	modified:   Asher/Library/metadata/00/00000000000000006100000000000000
+#	modified:   Asher/Library/metadata/00/00000000000000007000000000000000
+#	modified:   Asher/Library/metadata/00/00000000000000007100000000000000
+#	modified:   Asher/Library/metadata/00/00000000000000008000000000000000
+#	modified:   Asher/Library/metadata/00/00000000000000009000000000000000
+#	modified:   Asher/Library/metadata/00/0000000000000000a000000000000000
+#	modified:   Asher/Library/metadata/00/0000000000000000a100000000000000
+#	modified:   Asher/Library/metadata/00/0000000000000000b000000000000000
+#	modified:   Asher/Library/metadata/00/0000000000000000c000000000000000
+#	modified:   Asher/Library/metadata/38/3811fe295ee16ce4fa4ae8f54116dfd1
+#	modified:   Asher/Library/metadata/5e/5e7b5ebeb1489ae4bbf776ea32dcbcb2
+#	modified:   Asher/Library/metadata/60/608ab14419aaefa4fb46e1457b300b0c
+#	modified:   Asher/Library/metadata/89/89918f68c95a66e428681ce1b6d28830
+#	modified:   Asher/Library/metadata/a3/a3e4e64686b046048a17c6473e18face
+#	modified:   Asher/Library/metadata/a8/a8aa999a0a391ca4bace7d31207a5444.info
+#	modified:   Asher/Library/metadata/b1/b163d7a8e0b373547906b66b129e1049
+#	modified:   Asher/Library/metadata/bc/bc32c07f1df7b044387c4069a4fd6649.info
+#	modified:   Asher/Library/metadata/f0/f02a7b61113de534e9d7849404cd1198
+#	modified:   Asher/ProjectSettings/AudioManager.asset
+#	modified:   Asher/ProjectSettings/ClusterInputManager.asset
+#	modified:   Asher/ProjectSettings/DynamicsManager.asset
+#	modified:   Asher/ProjectSettings/EditorBuildSettings.asset
+#	modified:   Asher/ProjectSettings/EditorSettings.asset
+#	modified:   Asher/ProjectSettings/GraphicsSettings.asset
+#	modified:   Asher/ProjectSettings/InputManager.asset
+#	modified:   Asher/ProjectSettings/NavMeshAreas.asset
+#	modified:   Asher/ProjectSettings/NetworkManager.asset
+#	modified:   Asher/ProjectSettings/Physics2DSettings.asset
+#	modified:   Asher/ProjectSettings/ProjectSettings.asset
+#	modified:   Asher/ProjectSettings/QualitySettings.asset
+#	modified:   Asher/ProjectSettings/TagManager.asset
+#	modified:   Asher/ProjectSettings/TimeManager.asset
+#	modified:   Asher/ProjectSettings/UnityConnectSettings.asset
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Materials/M_BigHouse 1.mat
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Materials/M_BigHouse.mat
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Materials/M_House_1.mat
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Materials/M_House_2.mat
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Materials/M_House_3.mat
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Materials/M_House_4.mat
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Materials/M_House_5.mat
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Materials/M_House_6.mat
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Materials/M_Props.mat
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Materials/M_Window.mat
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Materials/Road_Albedo.mat
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Materials/Sidewalk_Albedo.mat
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Materials/Tree.mat
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Meshes/Materials/City.mat
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Meshes/Materials/CityBigHouse.mat
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Meshes/Materials/House_1.mat
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Meshes/Materials/House_2.mat
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Meshes/Materials/House_3.mat
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Meshes/Materials/House_4.mat
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Meshes/Materials/House_5.mat
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Meshes/Materials/House_6.mat
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Meshes/Materials/No Name.mat
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Meshes/Materials/Stores.mat
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/NewCity.unity
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Prefabs/BigHouseAngular.prefab
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Prefabs/BigHouseLine.prefab
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Prefabs/House_1.prefab
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Prefabs/House_2.prefab
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Prefabs/House_3.prefab
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Prefabs/House_4.prefab
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Prefabs/House_5.prefab
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Prefabs/House_6.prefab
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Prefabs/PropsFence.prefab
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Prefabs/Props_Bench.prefab
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Prefabs/Props_CartboardBox.prefab
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Prefabs/Props_ConcBlock.prefab
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Prefabs/Props_Cone.prefab
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Prefabs/Props_Garage.prefab
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Prefabs/Props_Garbage.prefab
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Prefabs/Props_Manhole.prefab
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Prefabs/Props_MetalFence.prefab
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Prefabs/Props_SignsWhileBrick.prefab
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Prefabs/Props_SingsCrosswalk.prefab
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Prefabs/Props_SingsStop.prefab
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Prefabs/Props_StreetLight.prefab
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Prefabs/Props_TraficLight.prefab
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Prefabs/Props_TrashcanClose.prefab
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Prefabs/Props_TrashcanOpen.prefab
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Prefabs/Props_Ventil.prefab
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Prefabs/Props_WoodPlank.prefab
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Prefabs/Road.prefab
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Prefabs/Tree_Big.prefab
+#	modified:   Gta Scene/Assets/Asset Store/NewCity/Prefabs/Tree_Small.prefab
+#	modified:   Gta Scene/Assets/Asset Store/PostProcessing/Utilities/CustomMotionTexture/CustomMotionVectorDebugProfile.asset
+#	modified:   Gta Scene/Assets/Asset Store/PostProcessing/Utilities/CustomMotionTexture/ExampleScene.unity
+#	modified:   Gta Scene/Assets/Asset Store/PostProcessing/Utilities/CustomMotionTexture/Materials/DebugMotionVectors.mat
+#	modified:   Gta Scene/Assets/Asset Store/PostProcessing/Utilities/CustomMotionTexture/Materials/DebugQuad.mat
+#	modified:   Gta Scene/Assets/Asset Store/PostProcessing/Utilities/CustomMotionTexture/Materials/UVChecker.mat
+#	modified:   Gta Scene/Assets/Asset Store/PostProcessing/Utilities/CustomMotionTexture/Materials/WheelMotionVectors.mat
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Materials/BACK.mat
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Materials/Black.mat
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Materials/Door pipe.mat
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Materials/Door rim.mat
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Materials/Door wall 01.mat
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Materials/Floor 01 big.mat
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Materials/Floor 01.mat
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Materials/Floor.mat
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Materials/Foot plate.mat
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Materials/Pillar 02.mat
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Materials/Pillar top.mat
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Materials/Pillar.mat
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Materials/Pillar_01.mat
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Materials/Pipe_01.mat
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Materials/Plates.mat
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Materials/Platform 01.mat
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Materials/Pod 01.mat
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Materials/Rim.mat
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Materials/Roof 01.mat
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Materials/Roof block 01.mat
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Materials/Steps 01.mat
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Materials/Tunnel pipe 01.mat
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Materials/Tunnel straight.mat
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Materials/Wall 01 big.mat
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Materials/Wall 01 pillar.mat
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Materials/Wall 01.mat
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Materials/Wall 02.mat
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Materials/Wall.mat
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Materials/light.mat
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Materials/pipe 01.mat
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Prefabs/Door wall 01.prefab
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Prefabs/Door wall 02.prefab
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Prefabs/Floor 01.prefab
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Prefabs/Floor big 01.prefab
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Prefabs/Pillar 01.prefab
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Prefabs/Pipe 01.prefab
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Prefabs/Pipe 02.prefab
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Prefabs/Platform 01.prefab
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Prefabs/Pod 01.prefab
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Prefabs/Railing 01.prefab
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Prefabs/Railing 02.prefab
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Prefabs/Roof 01.prefab
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Prefabs/Roof block 01.prefab
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Prefabs/Steps 01.prefab
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Prefabs/Steps 02.prefab
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Prefabs/Tunnel curve 01.prefab
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Prefabs/Tunnel ramp 01.prefab
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Prefabs/Tunnel ramp 02.prefab
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Prefabs/Tunnel straight.prefab
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Prefabs/Wall 01 big.prefab
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Prefabs/Wall 01.prefab
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/Prefabs/Wall 02.prefab
+#	modified:   Gta Scene/Assets/Asset Store/Scifi Environment/SCIFI Enviro.unity
+#	modified:   Gta Scene/Assets/Asset Store/controller/Character Controllers/First Person Controller.prefab
+#	modified:   Gta Scene/Assets/Materials/Ground.mat
+#	modified:   Gta Scene/Assets/Materials/Skybox.mat
+#	modified:   Gta Scene/Assets/Scene to be played.unity
+#	modified:   Gta Scene/Assets/Scene to be played/OcclusionCullingData.asset
+#	modified:   Gta Scene/Library/CurrentLayout.dwlt
+#	modified:   Gta Scene/Library/CurrentMaximizeLayout.dwlt
+#	modified:   Gta Scene/Library/ProjectSettings.asset
+#	modified:   Gta Scene/Library/assetDatabase3
+#	modified:   Gta Scene/Library/metadata/00/00000000000000002000000000000000
+#	modified:   Gta Scene/Library/metadata/00/00000000000000003000000000000000
+#	modified:   Gta Scene/Library/metadata/00/00000000000000004000000000000000
+#	modified:   Gta Scene/Library/metadata/00/00000000000000004100000000000000
+#	modified:   Gta Scene/Library/metadata/00/00000000000000005100000000000000
+#	modified:   Gta Scene/Library/metadata/00/00000000000000006000000000000000
+#	modified:   Gta Scene/Library/metadata/00/00000000000000006100000000000000
+#	modified:   Gta Scene/Library/metadata/00/00000000000000007000000000000000
+#	modified:   Gta Scene/Library/metadata/00/00000000000000007100000000000000
+#	modified:   Gta Scene/Library/metadata/00/00000000000000008000000000000000
+#	modified:   Gta Scene/Library/metadata/00/00000000000000009000000000000000
+#	modified:   Gta Scene/Library/metadata/00/0000000000000000a000000000000000
+#	modified:   Gta Scene/Library/metadata/00/0000000000000000a100000000000000
+#	modified:   Gta Scene/Library/metadata/00/0000000000000000b000000000000000
+#	modified:   Gta Scene/Library/metadata/00/0000000000000000c000000000000000
+#	modified:   Gta Scene/Library/metadata/02/020af8999b21626469d9de02eb18a77a
+#	modified:   Gta Scene/Library/metadata/02/020af8999b21626469d9de02eb18a77a.info
+#	modified:   Gta Scene/Library/metadata/03/03c52c8dff31cbe4b9bbed8c6e1e9835
+#	modified:   Gta Scene/Library/metadata/03/03c52c8dff31cbe4b9bbed8c6e1e9835.info
+#	modified:   Gta Scene/Library/metadata/05/051cfa674b5d2e74d80adfe54333df0f
+#	modified:   Gta Scene/Library/metadata/05/051cfa674b5d2e74d80adfe54333df0f.info
+#	modified:   Gta Scene/Library/metadata/05/055f7217f136349d9b68e82b9e987dae
+#	modified:   Gta Scene/Library/metadata/05/055f7217f136349d9b68e82b9e987dae.info
+#	modified:   Gta Scene/Library/metadata/07/0730e58bb3d80c8448c857213d225eae
+#	modified:   Gta Scene/Library/metadata/07/0730e58bb3d80c8448c857213d225eae.info
+#	modified:   Gta Scene/Library/metadata/08/085e6c22138b3a84091ad1d4ebd4ee92
+#	modified:   Gta Scene/Library/metadata/08/085e6c22138b3a84091ad1d4ebd4ee92.info
+#	modified:   Gta Scene/Library/metadata/0b/0bed3e94cecf67147bfa45330ad40f41
+#	modified:   Gta Scene/Library/metadata/0b/0bed3e94cecf67147bfa45330ad40f41.info
+#	modified:   Gta Scene/Library/metadata/0c/0c31d62abd3a6b04d97681383a1398d0
+#	modified:   Gta Scene/Library/metadata/0c/0c31d62abd3a6b04d97681383a1398d0.info
+#	modified:   Gta Scene/Library/metadata/0e/0e5dab83aea11df49b8569d5848f5cf7
+#	modified:   Gta Scene/Library/metadata/0e/0e5dab83aea11df49b8569d5848f5cf7.info
+#	modified:   Gta Scene/Library/metadata/10/10561c6ca037ebd4bbf1faf6a838204a
+#	modified:   Gta Scene/Library/metadata/10/10561c6ca037ebd4bbf1faf6a838204a.info
+#	modified:   Gta Scene/Library/metadata/11/1179dc9ea9d2cfd4ea34ccc83d43e290
+#	modified:   Gta Scene/Library/metadata/11/1179dc9ea9d2cfd4ea34ccc83d43e290.info
+#	modified:   Gta Scene/Library/metadata/14/1497d471ebaab4c498c0cbcb24071823
+#	modified:   Gta Scene/Library/metadata/14/1497d471ebaab4c498c0cbcb24071823.info
+#	modified:   Gta Scene/Library/metadata/1f/1f9594a7c4c34fa40b06bd2d4741e8e6
+#	modified:   Gta Scene/Library/metadata/1f/1f9594a7c4c34fa40b06bd2d4741e8e6.info
+#	modified:   Gta Scene/Library/metadata/20/206902ae9a134dd449b0f4eae159dc17
+#	modified:   Gta Scene/Library/metadata/20/206902ae9a134dd449b0f4eae159dc17.info
+#	modified:   Gta Scene/Library/metadata/22/222a1cf7de1c0e64ebac5fcaa14109fe
+#	modified:   Gta Scene/Library/metadata/22/222a1cf7de1c0e64ebac5fcaa14109fe.info
+#	modified:   Gta Scene/Library/metadata/22/22ada0176a239bc49bc5ac0dd069da44
+#	modified:   Gta Scene/Library/metadata/22/22ada0176a239bc49bc5ac0dd069da44.info
+#	modified:   Gta Scene/Library/metadata/24/2435e65b8789fde4fb84ee17fdd049b4
+#	modified:   Gta Scene/Library/metadata/24/2435e65b8789fde4fb84ee17fdd049b4.info
+#	modified:   Gta Scene/Library/metadata/24/24389daa37376b4439569a9122c5143d
+#	modified:   Gta Scene/Library/metadata/24/24389daa37376b4439569a9122c5143d.info
+#	modified:   Gta Scene/Library/metadata/25/254e89742a28d5e42b7d7ae0b772d013.info
+#	modified:   Gta Scene/Library/metadata/25/25643912513b9c547ad71c7564fc3c56
+#	modified:   Gta Scene/Library/metadata/25/25643912513b9c547ad71c7564fc3c56.info
+#	modified:   Gta Scene/Library/metadata/2b/2bcb7f4744964574ea2be03f87751adb
+#	modified:   Gta Scene/Library/metadata/2b/2bcb7f4744964574ea2be03f87751adb.info
+#	modified:   Gta Scene/Library/metadata/2f/2fe285989b9e4ab47a047317d4793836
+#	modified:   Gta Scene/Library/metadata/2f/2fe285989b9e4ab47a047317d4793836.info
+#	modified:   Gta Scene/Library/metadata/32/32897c104ba077b41b018e06bfdaa750
+#	modified:   Gta Scene/Library/metadata/32/32897c104ba077b41b018e06bfdaa750.info
+#	modified:   Gta Scene/Library/metadata/37/3773fd78a9a42f940b047d1807a835eb
+#	modified:   Gta Scene/Library/metadata/37/3773fd78a9a42f940b047d1807a835eb.info
+#	modified:   Gta Scene/Library/metadata/37/37d1b061be58bc1488c396756f54c0e4
+#	modified:   Gta Scene/Library/metadata/37/37d1b061be58bc1488c396756f54c0e4.info
+#	modified:   Gta Scene/Library/metadata/3c/3c11987e8e538d847b379ff48777596c
+#	modified:   Gta Scene/Library/metadata/3c/3c11987e8e538d847b379ff48777596c.info
+#	modified:   Gta Scene/Library/metadata/3c/3c40c8fdc50a841579d7cb15882ac9d9
+#	modified:   Gta Scene/Library/metadata/3c/3c40c8fdc50a841579d7cb15882ac9d9.info
+#	modified:   Gta Scene/Library/metadata/3f/3ff64aa1842fd7f4e93f6cedfadb7f8b
+#	modified:   Gta Scene/Library/metadata/3f/3ff64aa1842fd7f4e93f6cedfadb7f8b.info
+#	modified:   Gta Scene/Library/metadata/40/40201882611e5d747ae8f89b1447c464
+#	modified:   Gta Scene/Library/metadata/40/40201882611e5d747ae8f89b1447c464.info
+#	modified:   Gta Scene/Library/metadata/43/431490fa302777441bd4d89e6099d5af
+#	modified:   Gta Scene/Library/metadata/43/431490fa302777441bd4d89e6099d5af.info
+#	modified:   Gta Scene/Library/metadata/45/45d3884f9bb668c4d8601b3b14cd1911.info
+#	modified:   Gta Scene/Library/metadata/46/46809b2f6d6f42448a04fa413dbcfda0
+#	modified:   Gta Scene/Library/metadata/46/46809b2f6d6f42448a04fa413dbcfda0.info
+#	modified:   Gta Scene/Library/metadata/47/47ee7ec39708b7a48816779736128f35
+#	modified:   Gta Scene/Library/metadata/47/47ee7ec39708b7a48816779736128f35.info
+#	modified:   Gta Scene/Library/metadata/49/498c88dda9a182b4b8027d8c8c03ad31
+#	modified:   Gta Scene/Library/metadata/49/498c88dda9a182b4b8027d8c8c03ad31.info
+#	modified:   Gta Scene/Library/metadata/4b/4bb34c5281d329a45b487605accdb1b8
+#	modified:   Gta Scene/Library/metadata/4b/4bb34c5281d329a45b487605accdb1b8.info
+#	modified:   Gta Scene/Library/metadata/4c/4c40395aa44526943bc99aab583deaea
+#	modified:   Gta Scene/Library/metadata/4c/4c40395aa44526943bc99aab583deaea.info
+#	modified:   Gta Scene/Library/metadata/51/512ec97ca5c465e4f94ef0d9929e595c
+#	modified:   Gta Scene/Library/metadata/51/512ec97ca5c465e4f94ef0d9929e595c.info
+#	modified:   Gta Scene/Library/metadata/51/518008ea61d483749a3c3e76f07d5482
+#	modified:   Gta Scene/Library/metadata/51/518008ea61d483749a3c3e76f07d5482.info
+#	modified:   Gta Scene/Library/metadata/54/547d208f08ce3324691900f3f7b5e792
+#	modified:   Gta Scene/Library/metadata/54/547d208f08ce3324691900f3f7b5e792.info
+#	modified:   Gta Scene/Library/metadata/55/5533e0d86b6212849bf34c55c7fcd429
+#	modified:   Gta Scene/Library/metadata/55/5533e0d86b6212849bf34c55c7fcd429.info
+#	modified:   Gta Scene/Library/metadata/56/562d876b8947af74e8b12e0a2bad5bb4
+#	modified:   Gta Scene/Library/metadata/56/562d876b8947af74e8b12e0a2bad5bb4.info
+#	modified:   Gta Scene/Library/metadata/5c/5cab4146dcb01934eac9417ca92ba5dc
+#	modified:   Gta Scene/Library/metadata/5c/5cab4146dcb01934eac9417ca92ba5dc.info
+#	modified:   Gta Scene/Library/metadata/5f/5fcace41741b4d64ca45e0ed9efe4844
+#	modified:   Gta Scene/Library/metadata/5f/5fcace41741b4d64ca45e0ed9efe4844.info
+#	modified:   Gta Scene/Library/metadata/62/6240334de864b6f488f8ca344838bfec
+#	modified:   Gta Scene/Library/metadata/62/6240334de864b6f488f8ca344838bfec.info
+#	modified:   Gta Scene/Library/metadata/62/62407fde50abe3741b8e519ed8f8e2c8
+#	modified:   Gta Scene/Library/metadata/62/62407fde50abe3741b8e519ed8f8e2c8.info
+#	modified:   Gta Scene/Library/metadata/62/626557e5846f9764380eac89713533d4
+#	modified:   Gta Scene/Library/metadata/62/626557e5846f9764380eac89713533d4.info
+#	modified:   Gta Scene/Library/metadata/62/62afcc4bfa85b254085c04554eb00e7b
+#	modified:   Gta Scene/Library/metadata/62/62afcc4bfa85b254085c04554eb00e7b.info
+#	modified:   Gta Scene/Library/metadata/6a/6abd04bb6bd46ed409e110345cb550e4
+#	modified:   Gta Scene/Library/metadata/6a/6abd04bb6bd46ed409e110345cb550e4.info
+#	modified:   Gta Scene/Library/metadata/6d/6d6d50517a4220042b91134a79f7be6a
+#	modified:   Gta Scene/Library/metadata/6d/6d6d50517a4220042b91134a79f7be6a.info
+#	modified:   Gta Scene/Library/metadata/6d/6dff043ba330dd84cbe956afe955d885
+#	modified:   Gta Scene/Library/metadata/6d/6dff043ba330dd84cbe956afe955d885.info
+#	modified:   Gta Scene/Library/metadata/6e/6e094f72230c9504ea8e46303ab24342
+#	modified:   Gta Scene/Library/metadata/6e/6e094f72230c9504ea8e46303ab24342.info
+#	modified:   Gta Scene/Library/metadata/6e/6ed5638ddf785e34aa99c8031fb2ac86
+#	modified:   Gta Scene/Library/metadata/6e/6ed5638ddf785e34aa99c8031fb2ac86.info
+#	modified:   Gta Scene/Library/metadata/71/710557e72bab2274cb0e8a5481060798
+#	modified:   Gta Scene/Library/metadata/71/710557e72bab2274cb0e8a5481060798.info
+#	modified:   Gta Scene/Library/metadata/74/747f90887ec9b644ea70185b67f65734
+#	modified:   Gta Scene/Library/metadata/74/747f90887ec9b644ea70185b67f65734.info
+#	modified:   Gta Scene/Library/metadata/77/77b9d81b4b06b5e40bbd5a2807d19bbc
+#	modified:   Gta Scene/Library/metadata/77/77b9d81b4b06b5e40bbd5a2807d19bbc.info
+#	modified:   Gta Scene/Library/metadata/78/78ee81390d6766c4a94d01096514fcdc
+#	modified:   Gta Scene/Library/metadata/78/78ee81390d6766c4a94d01096514fcdc.info
+#	modified:   Gta Scene/Library/metadata/79/79059861baad6d243816bdf5c5b847ee
+#	modified:   Gta Scene/Library/metadata/79/79059861baad6d243816bdf5c5b847ee.info
+#	modified:   Gta Scene/Library/metadata/7a/7a8d5990e86835045a097293e8e80091
+#	modified:   Gta Scene/Library/metadata/7a/7a8d5990e86835045a097293e8e80091.info
+#	modified:   Gta Scene/Library/metadata/7f/7ff501a0847fafe41a4cff014b7b6f1c
+#	modified:   Gta Scene/Library/metadata/7f/7ff501a0847fafe41a4cff014b7b6f1c.info
+#	modified:   Gta Scene/Library/metadata/84/8491736ad2aaaf14dae33f43b8de2eb7
+#	modified:   Gta Scene/Library/metadata/84/8491736ad2aaaf14dae33f43b8de2eb7.info
+#	modified:   Gta Scene/Library/metadata/8a/8ae2e3e87ce642044aa4de23816da95f
+#	modified:   Gta Scene/Library/metadata/8a/8ae2e3e87ce642044aa4de23816da95f.info
+#	modified:   Gta Scene/Library/metadata/8f/8fde5c0749a1d274c9ccc5130e6ad704
+#	modified:   Gta Scene/Library/metadata/8f/8fde5c0749a1d274c9ccc5130e6ad704.info
+#	modified:   Gta Scene/Library/metadata/90/90a52661cc23c7d4e99f92bbbead2f53
+#	modified:   Gta Scene/Library/metadata/90/90a52661cc23c7d4e99f92bbbead2f53.info
+#	modified:   Gta Scene/Library/metadata/90/90b679ab22f8698428e844bf5d2aef3f
+#	modified:   Gta Scene/Library/metadata/90/90b679ab22f8698428e844bf5d2aef3f.info
+#	modified:   Gta Scene/Library/metadata/93/930cca8cf4430b047b4328b32df0c365
+#	modified:   Gta Scene/Library/metadata/93/930cca8cf4430b047b4328b32df0c365.info
+#	modified:   Gta Scene/Library/metadata/93/933a050d8e177da4686cbb25444d412a
+#	modified:   Gta Scene/Library/metadata/93/933a050d8e177da4686cbb25444d412a.info
+#	modified:   Gta Scene/Library/metadata/94/944463113244f4bf8b05c1757cd838a4
+#	modified:   Gta Scene/Library/metadata/94/944463113244f4bf8b05c1757cd838a4.info
+#	modified:   Gta Scene/Library/metadata/94/94d0da6012a64114591f14c43d53fbcb
+#	modified:   Gta Scene/Library/metadata/94/94d0da6012a64114591f14c43d53fbcb.info
+#	modified:   Gta Scene/Library/metadata/97/9769e93b339e49943ac336fa745572f4
+#	modified:   Gta Scene/Library/metadata/97/9769e93b339e49943ac336fa745572f4.info
+#	modified:   Gta Scene/Library/metadata/97/976aa7f001496fa4abfa5e9873b85927
+#	modified:   Gta Scene/Library/metadata/97/976aa7f001496fa4abfa5e9873b85927.info
+#	modified:   Gta Scene/Library/metadata/9c/9c47ab3a22619db4895f723720ef8455
+#	modified:   Gta Scene/Library/metadata/9c/9c47ab3a22619db4895f723720ef8455.info
+#	modified:   Gta Scene/Library/metadata/9d/9d4133d5d30b644bd87802a347eaccbe
+#	modified:   Gta Scene/Library/metadata/9d/9d4133d5d30b644bd87802a347eaccbe.info
+#	modified:   Gta Scene/Library/metadata/a0/a00e7265d0adeda4fbba55ebc009fb68
+#	modified:   Gta Scene/Library/metadata/a0/a00e7265d0adeda4fbba55ebc009fb68.info
+#	modified:   Gta Scene/Library/metadata/a4/a4389c4c20b90214785e45904ac565d5
+#	modified:   Gta Scene/Library/metadata/a4/a4389c4c20b90214785e45904ac565d5.info
+#	modified:   Gta Scene/Library/metadata/a5/a546f08c124a9e845983ba9fdde2f9d9
+#	modified:   Gta Scene/Library/metadata/a5/a546f08c124a9e845983ba9fdde2f9d9.info
+#	modified:   Gta Scene/Library/metadata/a6/a68e7edcc58fc0947aed87c230050161
+#	modified:   Gta Scene/Library/metadata/a6/a68e7edcc58fc0947aed87c230050161.info
+#	modified:   Gta Scene/Library/metadata/aa/aa3ef10d3bc63fb41ace71596b21bca2
+#	modified:   Gta Scene/Library/metadata/aa/aa3ef10d3bc63fb41ace71596b21bca2.info
+#	modified:   Gta Scene/Library/metadata/aa/aa7d8a5832d6d924e9e60f91144b56a0
+#	modified:   Gta Scene/Library/metadata/aa/aa7d8a5832d6d924e9e60f91144b56a0.info
+#	modified:   Gta Scene/Library/metadata/ac/ac60a29ef0ea82d459ea88391bae3202
+#	modified:   Gta Scene/Library/metadata/ac/ac60a29ef0ea82d459ea88391bae3202.info
+#	modified:   Gta Scene/Library/metadata/ae/ae9f58c7a7149ce449b81340bb12a840
+#	modified:   Gta Scene/Library/metadata/ae/ae9f58c7a7149ce449b81340bb12a840.info
+#	modified:   Gta Scene/Library/metadata/af/af5d5c3263f1ab24c8c4b7b216defbe7
+#	modified:   Gta Scene/Library/metadata/af/af5d5c3263f1ab24c8c4b7b216defbe7.info
+#	modified:   Gta Scene/Library/metadata/af/af6beb91dca3336439058e44d5d9a057
+#	modified:   Gta Scene/Library/metadata/af/af6beb91dca3336439058e44d5d9a057.info
+#	modified:   Gta Scene/Library/metadata/af/af7c9dc1051a26344b83f33d54434209
+#	modified:   Gta Scene/Library/metadata/af/af7c9dc1051a26344b83f33d54434209.info
+#	modified:   Gta Scene/Library/metadata/af/afaf3c86fd53e434c92b5075fea78dfe
+#	modified:   Gta Scene/Library/metadata/af/afaf3c86fd53e434c92b5075fea78dfe.info
+#	modified:   Gta Scene/Library/metadata/b0/b00a9afeb1600344d8b46d9e3fc86c5e
+#	modified:   Gta Scene/Library/metadata/b0/b00a9afeb1600344d8b46d9e3fc86c5e.info
+#	modified:   Gta Scene/Library/metadata/b7/b766a76141e862d44889cfdfbd426872
+#	modified:   Gta Scene/Library/metadata/b7/b766a76141e862d44889cfdfbd426872.info
+#	modified:   Gta Scene/Library/metadata/bc/bcb946a6a33b9c740bb8365e41364e28
+#	modified:   Gta Scene/Library/metadata/bc/bcb946a6a33b9c740bb8365e41364e28.info
+#	modified:   Gta Scene/Library/metadata/be/be03c0b34bdd1e94ab367bce631a40ec
+#	modified:   Gta Scene/Library/metadata/be/be03c0b34bdd1e94ab367bce631a40ec.info
+#	modified:   Gta Scene/Library/metadata/c4/c453b416a4a4b044e81997f1df3b5f0b
+#	modified:   Gta Scene/Library/metadata/c4/c453b416a4a4b044e81997f1df3b5f0b.info
+#	modified:   Gta Scene/Library/metadata/c5/c599c369f92ccd647a33e4f991ed12ea
+#	modified:   Gta Scene/Library/metadata/c5/c599c369f92ccd647a33e4f991ed12ea.info
+#	modified:   Gta Scene/Library/metadata/c7/c726d127a585a8146abbba25dc5641a8
+#	modified:   Gta Scene/Library/metadata/c7/c726d127a585a8146abbba25dc5641a8.info
+#	modified:   Gta Scene/Library/metadata/c8/c83c8ae4451600f488eaa0646f6fd0a5
+#	modified:   Gta Scene/Library/metadata/c8/c83c8ae4451600f488eaa0646f6fd0a5.info
+#	modified:   Gta Scene/Library/metadata/c9/c9ebebe455c32f745aeffc83af497637
+#	modified:   Gta Scene/Library/metadata/c9/c9ebebe455c32f745aeffc83af497637.info
+#	modified:   Gta Scene/Library/metadata/ce/ce49b3a06830f6e4e91f610a6405dc27
+#	modified:   Gta Scene/Library/metadata/ce/ce49b3a06830f6e4e91f610a6405dc27.info
+#	modified:   Gta Scene/Library/metadata/ce/cebfcfe1c786e61499b182faf9085d54
+#	modified:   Gta Scene/Library/metadata/ce/cebfcfe1c786e61499b182faf9085d54.info
+#	modified:   Gta Scene/Library/metadata/cf/cfb8b51c9012cb042bd6577a49d36023
+#	modified:   Gta Scene/Library/metadata/cf/cfb8b51c9012cb042bd6577a49d36023.info
+#	modified:   Gta Scene/Library/metadata/d7/d7daeefbca4f14360bac0e1df1bdacd4
+#	modified:   Gta Scene/Library/metadata/d7/d7daeefbca4f14360bac0e1df1bdacd4.info
+#	modified:   Gta Scene/Library/metadata/d9/d92dbc3b817e9e04ea455e41178f3cbe.info
+#	modified:   Gta Scene/Library/metadata/da/da007bc1775e25c4aa008aaa2fc4fbf6
+#	modified:   Gta Scene/Library/metadata/da/da007bc1775e25c4aa008aaa2fc4fbf6.info
+#	modified:   Gta Scene/Library/metadata/da/da3a5ae9b7bc8694c8acfbaeae73f1ea
+#	modified:   Gta Scene/Library/metadata/da/da3a5ae9b7bc8694c8acfbaeae73f1ea.info
+#	modified:   Gta Scene/Library/metadata/dd/dd24e7fae32f5724c9aef436d2519741
+#	modified:   Gta Scene/Library/metadata/dd/dd24e7fae32f5724c9aef436d2519741.info
+#	modified:   Gta Scene/Library/metadata/dd/dd74fd6bec5972f41bdd8eeb4f3aec35
+#	modified:   Gta Scene/Library/metadata/dd/dd74fd6bec5972f41bdd8eeb4f3aec35.info
+#	modified:   Gta Scene/Library/metadata/df/df575c13405b4b24ea2e6b0668558d62
+#	modified:   Gta Scene/Library/metadata/df/df575c13405b4b24ea2e6b0668558d62.info
+#	modified:   Gta Scene/Library/metadata/e2/e23960548300e6f4f88e633c9ab03d96
+#	modified:   Gta Scene/Library/metadata/e2/e23960548300e6f4f88e633c9ab03d96.info
+#	modified:   Gta Scene/Library/metadata/e3/e397ab88678e07a45b3e5483c391a927
+#	modified:   Gta Scene/Library/metadata/e3/e397ab88678e07a45b3e5483c391a927.info
+#	modified:   Gta Scene/Library/metadata/e7/e7bae400835bc3d469958298fc6efc3d
+#	modified:   Gta Scene/Library/metadata/e7/e7bae400835bc3d469958298fc6efc3d.info
+#	modified:   Gta Scene/Library/metadata/ed/ed0305d009db7e54dac75843f7384769
+#	modified:   Gta Scene/Library/metadata/ed/ed0305d009db7e54dac75843f7384769.info
+#	modified:   Gta Scene/Library/metadata/ed/ed3a9f41209f84f6db99e07013da9628
+#	modified:   Gta Scene/Library/metadata/ed/ed3a9f41209f84f6db99e07013da9628.info
+#	modified:   Gta Scene/Library/metadata/ef/ef160ea432de1e8478029944626df829
+#	modified:   Gta Scene/Library/metadata/ef/ef160ea432de1e8478029944626df829.info
+#	modified:   Gta Scene/Library/metadata/f0/f0d4601664e79504f89abb7fca75f7a5
+#	modified:   Gta Scene/Library/metadata/f0/f0d4601664e79504f89abb7fca75f7a5.info
+#	modified:   Gta Scene/Library/metadata/f1/f10ab5c6b623c1045bbe949452b16a4f
+#	modified:   Gta Scene/Library/metadata/f1/f10ab5c6b623c1045bbe949452b16a4f.info
+#	modified:   Gta Scene/Library/metadata/fa/fa01c37342d88054c8db2f65cf37d4af
+#	modified:   Gta Scene/Library/metadata/fa/fa01c37342d88054c8db2f65cf37d4af.info
+#	modified:   Gta Scene/Library/metadata/fc/fcc8a153dfb9473468cdf14320cb0696
+#	modified:   Gta Scene/Library/metadata/fc/fcc8a153dfb9473468cdf14320cb0696.info
+#	modified:   Gta Scene/Library/shadercompiler-UnityShaderCompiler.exe0.log
+#	modified:   Gta Scene/ProjectSettings/AudioManager.asset
+#	modified:   Gta Scene/ProjectSettings/ClusterInputManager.asset
+#	modified:   Gta Scene/ProjectSettings/DynamicsManager.asset
+#	modified:   Gta Scene/ProjectSettings/EditorBuildSettings.asset
+#	modified:   Gta Scene/ProjectSettings/EditorSettings.asset
+#	modified:   Gta Scene/ProjectSettings/GraphicsSettings.asset
+#	modified:   Gta Scene/ProjectSettings/InputManager.asset
+#	modified:   Gta Scene/ProjectSettings/NavMeshAreas.asset
+#	modified:   Gta Scene/ProjectSettings/NetworkManager.asset
+#	modified:   Gta Scene/ProjectSettings/Physics2DSettings.asset
+#	modified:   Gta Scene/ProjectSettings/ProjectSettings.asset
+#	modified:   Gta Scene/ProjectSettings/QualitySettings.asset
+#	modified:   Gta Scene/ProjectSettings/TagManager.asset
+#	modified:   Gta Scene/ProjectSettings/TimeManager.asset
+#	modified:   Gta Scene/ProjectSettings/UnityConnectSettings.asset
+#
+
